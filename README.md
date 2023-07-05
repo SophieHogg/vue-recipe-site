@@ -1,18 +1,19 @@
-# Recipes App
+# Vue Recipes App
 
-I wanted a place to group my recipes that I use frequently, so I wanted to make a website for them.
+I wanted a place to group my recipes that I use frequently, so I am making a website for them.
 
 ## Languages
 
 -   HTML + Pug
 -   CSS + SCSS
 -   Vue 3 & Javascript (to convert to TS)
+-   Vitest for unit testing
 
 ## MVP:
 
 -   Recipe cards
 -   Click on recipe cards to route to the recipe in question
--   Testing out Pug
+-   Using Pug as templating lang instead of HTML
 -   Comprehensive Vitest testing
 
 ## Themes and Styling
