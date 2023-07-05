@@ -1,0 +1,30 @@
+{
+    "name": "recipes-vue",
+    "version": "0.0.0",
+    "private": true,
+
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "test": "vitest",
+        "coverage": "vitest run --coverage"
+    },
+    "dependencies": {
+        "primeicons": "^6.0.1",
+        "primevue": "^3.29.2",
+        "vue": "^3.2.47",
+        "vue-pug-plugin": "^2.0.3"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.0.0",
+        "@volar/pug-language-service": "^1.0.24",
+        "@volar/vue-language-plugin-pug": "^1.6.5",
+        "@vue/language-plugin-pug": "^1.8.4",
+        "bulma": "^0.9.4",
+        "node-sass": "^8.0.0",
+        "sass-loader": "^13.2.2",
+        "vite": "^4.1.4",
+        "vitest": "^0.32.4"
+    }
+}
